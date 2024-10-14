@@ -1,0 +1,13 @@
+{
+    "name": "alvar/event-analyzer",
+    "authors": [
+        {
+            "name": "Alvaro",
+            "email": "Alvarogualix@gmail.com"
+        }
+    ],
+    "require": {
+        "php-webdriver/webdriver": "^1.15",
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
